@@ -62,7 +62,3 @@ The script includes error handling for:
 - Invalid model parameters
 - API communication errors
 - Empty user input
-
-## License
-
-[Your chosen license] 
